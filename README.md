@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 ### 3. Add Your API Keys
 
-Place the following in a `.env` file in the project directory. 
+Create the following in a `.env` file in the project directory. 
 ```
 
 JUDGMENT_API_KEY=your_judgeval_api_key
