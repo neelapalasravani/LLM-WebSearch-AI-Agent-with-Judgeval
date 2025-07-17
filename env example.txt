@@ -1,5 +1,0 @@
-JUDGMENT_API_KEY=your_judgment_api_key
-JUDGMENT_ORG_ID=your_judgment_org_id
-TAVILY_API_KEY=your_tavily_api_key
-TOGETHER_API_KEY=your_together_api_key
-#OPENAI_API_KEY=your_openai_api_key #if necessary
