@@ -61,11 +61,7 @@ Running LLM-based evaluation (GPT-4.1).
 - Add more LLMs with new functions like `run_llm`
 - Compare different models' responses
 - Change prompts or evaluation rules as necessary
-## Troubleshooting
 
-- API key errors? Check your `.env` file again.
-- Judgeval project limit quota issues? Try redoing the project with a different name or waiting for a few minutes then trying again.
-- Python errors? Check that you are running the latest version of Python and packages.
 ## What's in this folder?
 
 - `main.py`: The main agent code
